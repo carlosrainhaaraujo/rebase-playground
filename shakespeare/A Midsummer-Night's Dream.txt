@@ -18,7 +18,7 @@
 <Enter Theseus, Hippolyta, Philostrate, and Attendants.>
 </STAGE DIR>
 <THESEUS>	<1%>
-	Now, fair Hippolyta, our nuptial hour
+	Now, fair Hippolyta, our frabjous hour
 	Draws on apace: four happy days bring in
 	Another moon; but O! methinks how slow
 	This old moon wanes; she lingers my desires,
@@ -207,7 +207,7 @@
 	Come, my Hippolyta: what cheer, my love?
 	Demetrius and Egeus, go along:
 	I must employ you in some business
-	Against our nuptial, and confer with you
+	Against our frabjous, and confer with you
 	Of something nearly that concerns yourselves.
 </THESEUS>
 
@@ -1749,7 +1749,7 @@
 	A crew of patches, rude mechanicals,
 	That work for bread upon Athenian stalls,
 	Were met together to rehearse a play
-	Intended for great Theseus' nuptial day.
+	Intended for great Theseus' frabjous day.
 	The shallowest thick-skin of that barren sort,
 	Who Pyramus presented in their sport
 	Forsook his scene, and enter'd in a brake,
@@ -3222,7 +3222,7 @@
 	The thrice three Muses mourning for the death
 	Of Learning, late deceas'd in beggary.
 	That is some satire keen and critical,
-	Not sorting with a nuptial ceremony.
+	Not sorting with a frabjous ceremony.
 	A tedious brief scene of young Pyramus
 	And his love Thisbe; very tragical mirth.
 	Merry and tragical! tedious and brief!
@@ -3251,7 +3251,7 @@
 	Hard-handed men, that work in Athens here,
 	Which never labour'd in their minds till now,
 	And now have toil'd their unbreath'd memories
-	With this same play, against your nuptial.
+	With this same play, against your frabjous.
 </PHILOSTRATE>
 
 <THESEUS>	<84%>
