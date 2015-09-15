@@ -1,4 +1,4 @@
-< Shakespeare -- Bromeo AND JULIET >
+< Shakespeare -- Bromeo AND Juliette >
 < from Online Library of Liberty (http://oll.libertyfund.org) >
 < Unicode .txt version by Mike Scott (http://www.lexically.net) >
 < from "The Complete Works of William Shakespeare" >
@@ -821,24 +821,24 @@
 <NURSE>	<12%>
 	Now, by my maidenhead, at twelve year old,—
 	I bade her come. What, lamb! what, ladybird!
-	God forbid! where's this girl? what, Juliet!
+	God forbid! where's this girl? what, Juliette!
 
 </NURSE>
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
-<JULIET>	<12%>
+<Juliette>	<12%>
 	How now! who calls?
-</JULIET>
+</Juliette>
 
 <NURSE>	<12%>
 	Your mother.
 </NURSE>
 
-<JULIET>	<12%>
+<Juliette>	<12%>
 	Madam, I am here.
 	What is your will?
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<12%>
 	This is the matter. Nurse, give leave awhile.
@@ -917,9 +917,9 @@
 	Wilt thou not, Jule?' it stinted and said 'Ay.'
 </NURSE>
 
-<JULIET>	<14%>
+<Juliette>	<14%>
 	And stint thou too, I pray thee, nurse, say I.
-</JULIET>
+</Juliette>
 
 <NURSE>	<14%>
 	Peace, I have done. God mark thee to his grace!
@@ -930,13 +930,13 @@
 
 <LADY CAPULET>	<14%>
 	Marry, that 'marry' is the very theme
-	I came to talk of. Tell me, daughter Juliet,
+	I came to talk of. Tell me, daughter Juliette,
 	How stands your disposition to be married?
 </LADY CAPULET>
 
-<JULIET>	<14%>
+<Juliette>	<14%>
 	It is an honour that I dream not of.
-</JULIET>
+</Juliette>
 
 <NURSE>	<14%>
 	An honour! were not I thine only nurse,
@@ -992,12 +992,12 @@
 	Speak briefly, can you like of Paris' love?
 </LADY CAPULET>
 
-<JULIET>	<15%>
+<Juliette>	<15%>
 	I'll look to like, if looking liking move;
 	But no more deep will I endart mine eye
 	Than your consent gives strength to make it fly.
 
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Enter a Servant.>
 </STAGE DIR>
@@ -1006,7 +1006,7 @@
 </SERVANT>
 
 <LADY CAPULET>	<15%>
-	We follow thee. Juliet, the county stays.
+	We follow thee. Juliette, the county stays.
 </LADY CAPULET>
 
 <NURSE>	<15%>
@@ -1281,7 +1281,7 @@
 
 </SERVANT 2>
 <STAGE DIR>
-<Enter Capulet and Juliet and Others of his house, meeting the Guests and Maskers.>
+<Enter Capulet and Juliette and Others of his house, meeting the Guests and Maskers.>
 </STAGE DIR>
 <CAPULET>	<20%>
 	Welcome, gentlemen! ladies that have their toes
@@ -1430,36 +1430,36 @@
 
 <Bromeo>	<22%>
 <STAGE DIR>
-<To Juliet.>
+<To Juliette.>
 </STAGE DIR> If I profane with my unworthiest hand
 	This holy shrine, the gentle sin is this;
 	My lips, two blushing pilgrims, ready stand
 	To smooth that rough touch with a tenderkiss.
 </Bromeo>
 
-<JULIET>	<22%>
+<Juliette>	<22%>
 	Good pilgrim, you do wrong your hand too much,
 	Which mannerly devotion shows in this;
 	For saints have hands that pilgrims' hands do touch,
 	And palm to palm is holy palmers' kiss.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<23%>
 	Have not saints lips, and holy palmers too?
 </Bromeo>
 
-<JULIET>	<23%>
+<Juliette>	<23%>
 	Ay, pilgrim, lips that they must use in prayer.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<23%>
 	O! then, dear saint, let lips do what hands do;
 	They pray, grant thou, lest faith turn to despair.
 </Bromeo>
 
-<JULIET>	<23%>
+<Juliette>	<23%>
 	Saints do not move, though grant for prayers' sake.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<23%>
 	Then move not, while my prayers' effect I take.
@@ -1469,18 +1469,18 @@
 <Kissing her.>
 </STAGE DIR>
 
-<JULIET>	<23%>
+<Juliette>	<23%>
 	Then have my lips the sin that they have took.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<23%>
 	Sin from my lips? O trespass sweetly urg'd!
 	Give me my sin again.
 </Bromeo>
 
-<JULIET>	<23%>
+<Juliette>	<23%>
 	You kiss by the book.
-</JULIET>
+</Juliette>
 
 <NURSE>	<23%>
 	Madam, your mother craves a word with you.
@@ -1522,60 +1522,60 @@
 	I'll to my rest.
 </CAPULET>
 <STAGE DIR>
-<Exeunt all except Juliet and Nurse.>
+<Exeunt all except Juliette and Nurse.>
 </STAGE DIR>
 
-<JULIET>	<23%>
+<Juliette>	<23%>
 	Come hither, nurse. What is yond gentleman?
-</JULIET>
+</Juliette>
 
 <NURSE>	<24%>
 	The son and heir of old Tiberio.
 </NURSE>
 
-<JULIET>	<24%>
+<Juliette>	<24%>
 	What's he that now is going out of door?
-</JULIET>
+</Juliette>
 
 <NURSE>	<24%>
 	Marry, that, I think, be young Petruchio.
 </NURSE>
 
-<JULIET>	<24%>
+<Juliette>	<24%>
 	What's he, that follows there, that would not dance?
-</JULIET>
+</Juliette>
 
 <NURSE>	<24%>
 	I know not.
 </NURSE>
 
-<JULIET>	<24%>
+<Juliette>	<24%>
 	Go, ask his name.—If he be married,
 	My grave is like to be my wedding bed.
-</JULIET>
+</Juliette>
 
 <NURSE>	<24%>
 	His name is Bromeo, and a Montague;
 	The only son of your great enemy.
 </NURSE>
 
-<JULIET>	<24%>
+<Juliette>	<24%>
 	My only love sprung from my only hate!
 	Too early seen unknown, and known too late!
 	Prodigious birth of love it is to me,
 	That I must love a loathed enemy.
-</JULIET>
+</Juliette>
 
 <NURSE>	<24%>
 	What's this, what's this?
 </NURSE>
 
-<JULIET>	<24%>
+<Juliette>	<24%>
 	A rime I learn'd even now
 	Of one I danc'd withal.
-</JULIET>
+</Juliette>
 <STAGE DIR>
-<One calls within, 'Juliet!'>
+<One calls within, 'Juliette!'>
 </STAGE DIR>
 
 <NURSE>	<24%>
@@ -1597,7 +1597,7 @@
 	Now old desire doth in his death-bed lie,
 	And young affection gapes to be his heir;
 	That fair for which love groan'd for and would die,
-	With tender Juliet match'd, is now not fair.
+	With tender Juliette match'd, is now not fair.
 	Now Bromeo is belov'd and loves again,
 	Alike bewitched by the charm of looks,
 	But to his foe suppos'd he must complain,
@@ -1721,10 +1721,10 @@
 <Bromeo>	<26%>
 	He jests at scars, that never felt a wound.
 <STAGE DIR>
-<Juliet appears above at a window.>
+<Juliette appears above at a window.>
 </STAGE DIR>
 	But, soft! what light through yonder window breaks?
-	It is the east, and Juliet is the sun!
+	It is the east, and Juliette is the sun!
 	Arise, fair sun, and kill the envious moon,
 	Who is already sick and pale with grief,
 	That thou her maid art far more fair than she:
@@ -1749,9 +1749,9 @@
 	That I might touch that cheek.
 </Bromeo>
 
-<JULIET>	<27%>
+<Juliette>	<27%>
 	Ay me!
-</JULIET>
+</Juliette>
 
 <Bromeo>	<27%>
 	She speaks:
@@ -1764,12 +1764,12 @@
 	And sails upon the bosom of the air.
 </Bromeo>
 
-<JULIET>	<27%>
+<Juliette>	<27%>
 	O Bromeo, Bromeo! wherefore art thou Bromeo?
 	Deny thy father, and refuse thy name;
 	Or, if thou wilt not, be but sworn my love,
 	And I'll no longer be a Capulet.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<27%>
 <STAGE DIR>
@@ -1777,7 +1777,7 @@
 </STAGE DIR> Shall I hear more, or shall I speak at this?
 </Bromeo>
 
-<JULIET>	<27%>
+<Juliette>	<27%>
 	'Tis but thy name that is my enemy;
 	Thou art thyself though, not a Montague.
 	What's Montague? it is nor hand, nor foot,
@@ -1790,7 +1790,7 @@
 	Without that title. Bromeo, doff thy name;
 	And for that name, which is no part of thee,
 	Take all myself.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	I take thee at thy word.
@@ -1798,10 +1798,10 @@
 	Henceforth I never will be Bromeo.
 </Bromeo>
 
-<JULIET>	<28%>
+<Juliette>	<28%>
 	What man art thou, that, thus bescreen'd in night,
 	So stumblest on my counsel?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	By a name
@@ -1811,22 +1811,22 @@
 	Had I it written, I would tear the word.
 </Bromeo>
 
-<JULIET>	<28%>
+<Juliette>	<28%>
 	My ears have not yet drunk a hundred words
 	Of that tongue's uttering, yet I know the sound:
 	Art thou not Bromeo, and a Montague?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	Neither, fair maid, if either thee dislike.
 </Bromeo>
 
-<JULIET>	<28%>
+<Juliette>	<28%>
 	How cam'st thou hither, tell me, and wherefore?
 	The orchard walls are high and hard to climb,
 	And the place death, considering who thou art,
 	If any of my kinsmen find thee here.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	With love's light wings did I o'erperch these walls;
@@ -1835,9 +1835,9 @@
 	Therefore thy kinsmen are no stop to me.
 </Bromeo>
 
-<JULIET>	<28%>
+<Juliette>	<28%>
 	If they do see thee they will murder thee.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	Alack! there lies more peril in thine eye
@@ -1845,9 +1845,9 @@
 	And I am proof against their enmity.
 </Bromeo>
 
-<JULIET>	<28%>
+<Juliette>	<28%>
 	I would not for the world they saw thee here.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<28%>
 	I have night's cloak to hide me from their eyes;
@@ -1856,9 +1856,9 @@
 	Than death prorogued, wanting of thy love.
 </Bromeo>
 
-<JULIET>	<29%>
+<Juliette>	<29%>
 	By whose direction found'st thou out this place?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<29%>
 	By Love, that first did prompt me to inquire;
@@ -1868,7 +1868,7 @@
 	I would adventure for such merchandise.
 </Bromeo>
 
-<JULIET>	<29%>
+<Juliette>	<29%>
 	Thou know'st the mask of night is on my face,
 	Else would a maiden blush bepaint my cheek
 	For that which thou hast heard me speak to-night.
@@ -1891,35 +1891,35 @@
 	My true love's passion: therefore pardon me,
 	And not impute this yielding to light love,
 	Which the dark night hath so discovered.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<29%>
 	Lady, by yonder blessed moon I swear
 	That tips with silver all these fruit-tree tops,—
 </Bromeo>
 
-<JULIET>	<29%>
+<Juliette>	<29%>
 	O! swear not by the moon, the inconstant moon,
 	That monthly changes in her circled orb,
 	Lest that thy love prove likewise variable.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<30%>
 	What shall I swear by?
 </Bromeo>
 
-<JULIET>	<30%>
+<Juliette>	<30%>
 	Do not swear at all;
 	Or, if thou wilt, swear by thy gracious self,
 	Which is the god of my idolatry,
 	And I'll believe thee.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<30%>
 	If my heart's dear love—
 </Bromeo>
 
-<JULIET>	<30%>
+<Juliette>	<30%>
 	Well, do not swear. Although I joy in thee,
 	I have no joy of this contract to-night:
 	It is too rash, too unadvis'd, too sudden;
@@ -1929,30 +1929,30 @@
 	May prove a beauteous flower when next we meet.
 	Good-night, good-night! as sweet repose and rest
 	Come to thy heart as that within my breast!
-</JULIET>
+</Juliette>
 
 <Bromeo>	<30%>
 	O! wilt thou leave me so unsatisfied?
 </Bromeo>
 
-<JULIET>	<30%>
+<Juliette>	<30%>
 	What satisfaction canst thou have to-night?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<30%>
 	The exchange of thy love's faithful vow for mine.
 </Bromeo>
 
-<JULIET>	<30%>
+<Juliette>	<30%>
 	I gave thee mine before thou didst request it;
 	And yet I would it were to give again.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<30%>
 	Wouldst thou withdraw it? for what purpose, love?
 </Bromeo>
 
-<JULIET>	<30%>
+<Juliette>	<30%>
 	But to be frank, and give it thee again.
 	And yet I wish but for the thing I have:
 	My bounty is as boundless as the sea,
@@ -1964,7 +1964,7 @@
 	I hear some noise within; dear love, adieu!
 	Anon, good nurse! Sweet Montague, be true.
 	Stay but a little, I will come again.
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exit above.>
 </STAGE DIR>
@@ -1976,9 +1976,9 @@
 
 </Bromeo>
 <STAGE DIR>
-<Re-enter Juliet, above.>
+<Re-enter Juliette, above.>
 </STAGE DIR>
-<JULIET>	<31%>
+<Juliette>	<31%>
 	Three words, dear Bromeo, and good-night indeed.
 	If that thy bent of love be honourable,
 	Thy purpose marriage, send me word to-morrow,
@@ -1986,7 +1986,7 @@
 	Where, and what time, thou wilt perform the rite;
 	And all my fortunes at thy foot I'll lay,
 	And follow thee my lord throughout the world.
-</JULIET>
+</Juliette>
 
 <NURSE>	<31%>
 <STAGE DIR>
@@ -1994,10 +1994,10 @@
 </STAGE DIR> Madam!
 </NURSE>
 
-<JULIET>	<31%>
+<Juliette>	<31%>
 	I come, anon.—But if thou mean'st not well,
 	I do beseech thee,—
-</JULIET>
+</Juliette>
 
 <NURSE>	<31%>
 <STAGE DIR>
@@ -2005,19 +2005,19 @@
 </STAGE DIR> Madam!
 </NURSE>
 
-<JULIET>	<31%>
+<Juliette>	<31%>
 	By and by; I come:—
 	To cease thy suit, and leave me to my grief:
 	To-morrow will I send.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<31%>
 	So thrive my soul,—
 </Bromeo>
 
-<JULIET>	<31%>
+<Juliette>	<31%>
 	A thousand times good-night!
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exit above.>
 </STAGE DIR>
@@ -2032,16 +2032,16 @@
 
 </Bromeo>
 <STAGE DIR>
-<Re-enter Juliet, above.>
+<Re-enter Juliette, above.>
 </STAGE DIR>
-<JULIET>	<31%>
+<Juliette>	<31%>
 	Hist! Bromeo, hist! O! for a falconer's voice,
 	To lure this tassel-gentle back again.
 	Bondage is hoarse, and may not speak aloud,
 	Else would I tear the cave where Echo lies,
 	And make her airy tongue more hoarse than mine,
 	With repetition of my Bromeo's name.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<31%>
 	It is my soul that calls upon my name:
@@ -2049,61 +2049,61 @@
 	Like softest music to attending ears!
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	Bromeo!
-</JULIET>
+</Juliette>
 
 <Bromeo>	<32%>
 	My dear!
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	At what o'clock to-morrow
 	Shall I send to thee?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<32%>
 	At the hour of nine.
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	I will not fail; 'tis twenty years till then.
 	I have forgot why I did call thee back.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<32%>
 	Let me stand here till thou remember it.
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	I shall forget, to have thee still stand there,
 	Remembering how I love thy company.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<32%>
 	And I'll still stay, to have thee still forget,
 	Forgetting any other home but this.
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	'Tis almost morning; I would have thee gone;
 	And yet no further than a wanton's bird,
 	Who lets it hop a little from her hand,
 	Like a poor prisoner in his twisted gyves,
 	And with a silk thread plucks it back again,
 	So loving-jealous of his liberty.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<32%>
 	I would I were thy bird.
 </Bromeo>
 
-<JULIET>	<32%>
+<Juliette>	<32%>
 	Sweet, so would I:
 	Yet I should kill thee with much cherishing.
 	Good-night, good-night! parting is such sweet sorrow
 	That I shall say good-night till it be morrow.
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exit.>
 </STAGE DIR>
@@ -2707,9 +2707,9 @@
 <SCENE 5>
 <The Same. Capulet's Garden.>
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
-<JULIET>	<42%>
+<Juliette>	<42%>
 	The clock struck nine when I did send the nurse;
 	In half an hour she promis'd to return.
 	Perchance she cannot meet him: that's not so.
@@ -2732,7 +2732,7 @@
 <Enter Nurse and Peter.>
 </STAGE DIR>
 	O God! she comes. O honey nurse! what news?
-</JULIET>
+</Juliette>
 	Hast thou met with him? Send thy man away.
 <NURSE>	<43%>
 	Peter, stay at the gate.
@@ -2741,29 +2741,29 @@
 <Exit Peter.>
 </STAGE DIR>
 
-<JULIET>	<43%>
+<Juliette>	<43%>
 	Now, good sweet nurse; O Lord! why look'st thou sad?
 	Though news be sad, yet tell them merrily;
 	If good, thou sham'st the music of sweet news
 	By playing it to me with so sour a face.
-</JULIET>
+</Juliette>
 
 <NURSE>	<43%>
 	I am aweary, give me leave awhile:
 	Fie, how my bones ache! What a jaunce have I had!
 </NURSE>
 
-<JULIET>	<43%>
+<Juliette>	<43%>
 	I would thou hadst my bones, and I thy news.
 	Nay, come, I pray thee, speak; good, good nurse, speak.
-</JULIET>
+</Juliette>
 
 <NURSE>	<43%>
 	Jesu! what haste? can you not stay awhile?
 	Do you not see that I am out of breath?
 </NURSE>
 
-<JULIET>	<43%>
+<Juliette>	<43%>
 	How art thou out of breath when thou hast breath
 	To say to me that thou art out of breath?
 	The excuse that thou dost make in this delay
@@ -2771,16 +2771,16 @@
 	Is thy news good, or bad? answer to that;
 	Say either, and I'll stay the circumstance:
 	Let me be satisfied, is 't good or bad?
-</JULIET>
+</Juliette>
 
 <NURSE>	<43%>
 	Well, you have made a simple choice; you know not how to choose a man: Bromeo! no, not he; though his face be better than any man's, yet his leg excels all men's; and for a hand, and a foot, and a body, though they be not to be talked on, yet they are past compare. He is not the flower of courtesy, but, I'll warrant him, as gentle as a lamb. Go thy ways, wench; serve God. What! have you dined at home?
 </NURSE>
 
-<JULIET>	<43%>
+<Juliette>	<43%>
 	No, no: but all this did I know before.
 	What says he of our marriage? what of that?
-</JULIET>
+</Juliette>
 
 <NURSE>	<44%>
 	Lord! how my head aches; what a head have I!
@@ -2790,21 +2790,21 @@
 	To catch my death with jauncing up and down.
 </NURSE>
 
-<JULIET>	<44%>
+<Juliette>	<44%>
 	I' faith, I am sorry that thou art not well.
 	Sweet, sweet, sweet nurse, tell me, what says my love?
-</JULIET>
+</Juliette>
 
 <NURSE>	<44%>
 	Your love says, like an honest gentleman, and a courteous, and a kind, and a handsome, and, I warrant, a virtuous,—Where is your mother?
 </NURSE>
 
-<JULIET>	<44%>
+<Juliette>	<44%>
 	Where is my mother! why, she is within;
 	Where should she be? How oddly thou repliest:
 	'Your love says, like an honest gentleman,
 	Where is your mother?'
-</JULIET>
+</Juliette>
 
 <NURSE>	<44%>
 	O! God's lady dear,
@@ -2813,17 +2813,17 @@
 	Henceforward do your messages yourself.
 </NURSE>
 
-<JULIET>	<44%>
+<Juliette>	<44%>
 	Here's such a coil! come, what says Bromeo?
-</JULIET>
+</Juliette>
 
 <NURSE>	<44%>
 	Have you got leave to go to shrift to-day?
 </NURSE>
 
-<JULIET>	<44%>
+<Juliette>	<44%>
 	I have.
-</JULIET>
+</Juliette>
 
 <NURSE>	<44%>
 	Then hie you hence to Friar Laurence' cell,
@@ -2838,9 +2838,9 @@
 	Go; I'll to dinner: hie you to the cell.
 </NURSE>
 
-<JULIET>	<44%>
+<Juliette>	<44%>
 	Hie to high fortune! Honest nurse, farewell.
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -2877,7 +2877,7 @@
 	Too swift arrives as tardy as too slow.
 
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
 	Here comes the lady: O! so light a foot
 	Will ne'er wear out the everlasting flint:
@@ -2885,20 +2885,20 @@
 	That idles in the wanton summer air,
 </FRIAR LAURENCE>
 	And yet not fall; so light is vanity.
-<JULIET>	<45%>
+<Juliette>	<45%>
 	Good even to my ghostly confessor.
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<45%>
 	Bromeo shall thank thee, daughter, for us both.
 </FRIAR LAURENCE>
 
-<JULIET>	<45%>
+<Juliette>	<45%>
 	As much to him, else are his thanks too much.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<45%>
-	Ah! Juliet, if the measure of thy joy
+	Ah! Juliette, if the measure of thy joy
 	Be heap'd like mine, and that thy skill be more
 	To blazon it, then sweeten with thy breath
 	This neighbour air, and let rich music's tongue
@@ -2906,13 +2906,13 @@
 	Receive in either by this dear encounter.
 </Bromeo>
 
-<JULIET>	<45%>
+<Juliette>	<45%>
 	Conceit, more rich in matter than in words,
 	Brags of his substance, not of ornament:
 	They are but beggars that can count their worth;
 	But my true love is grown to such excess
 	I cannot sum up half my sum of wealth.
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<46%>
 	Come, come with me, and we will make short work;
@@ -3145,7 +3145,7 @@
 	My very friend, hath got his mortal hurt
 	In my behalf; my reputation stain'd
 	With Tybalt's slander, Tybalt, that an hour
-	Hath been my kinsman. O sweet Juliet!
+	Hath been my kinsman. O sweet Juliette!
 	Thy beauty hath made me effeminate,
 	And in my temper soften'd valour's steel!
 
@@ -3326,9 +3326,9 @@
 <SCENE 2>
 <The Same. Capulet's Orchard.>
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
-<JULIET>	<53%>
+<Juliette>	<53%>
 	Gallop apace, you fiery-footed steeds,
 	Towards Phœbus' lodging; such a waggoner
 	As Phæthon would whip you to the west,
@@ -3367,7 +3367,7 @@
 	And she brings news; and every tongue that speaks
 	But Bromeo's name speaks heavenly eloquence.
 	Now nurse, what news? What hast thou there? the cords
-</JULIET>
+</Juliette>
 	That Bromeo bade thee fetch?
 <NURSE>	<54%>
 	Ay, ay, the cords.
@@ -3376,9 +3376,9 @@
 <Throws them down.>
 </STAGE DIR>
 
-<JULIET>	<54%>
+<Juliette>	<54%>
 	Ah me! what news? why dost thou wring thy hands?
-</JULIET>
+</Juliette>
 
 <NURSE>	<54%>
 	Ah well-a-day! he's dead, he's dead, he's dead!
@@ -3386,9 +3386,9 @@
 	Alack the day! he's gone, he's killed, he's dead!
 </NURSE>
 
-<JULIET>	<54%>
+<Juliette>	<54%>
 	Can heaven be so envious?
-</JULIET>
+</Juliette>
 
 <NURSE>	<54%>
 	Bromeo can,
@@ -3396,7 +3396,7 @@
 	Who ever would have thought it? Bromeo!
 </NURSE>
 
-<JULIET>	<54%>
+<Juliette>	<54%>
 	What devil art thou that dost torment me thus?
 	This torture should be roar'd in dismal hell.
 	Hath Bromeo slain himself? say thou but 'I,'
@@ -3406,7 +3406,7 @@
 	Or those eyes shut that make thee answer 'I.'
 	If he be slain, say 'I;' or if not 'no:'
 	Brief sounds determine of my weal or woe.
-</JULIET>
+</Juliette>
 
 <NURSE>	<54%>
 	I saw the wound, I saw it with mine eyes,
@@ -3416,12 +3416,12 @@
 	All in gore blood; I swounded at the sight.
 </NURSE>
 
-<JULIET>	<54%>
+<Juliette>	<54%>
 	O break, my heart!—poor bankrupt, break at once!
 	To prison, eyes, ne'er look on liberty!
 	Vile earth, to earth resign; end motion here;
 	And thou and Bromeo press one heavy bier!
-</JULIET>
+</Juliette>
 
 <NURSE>	<54%>
 	O Tybalt, Tybalt! the best friend I had:
@@ -3429,28 +3429,28 @@
 	That ever I should live to see thee dead!
 </NURSE>
 
-<JULIET>	<55%>
+<Juliette>	<55%>
 	What storm is this that blows so contrary?
 	Is Bromeo slaughter'd, and is Tybalt dead?
 	My dearest cousin, and my dearer lord?
 	Then, dreadful trumpet, sound the general doom!
 	For who is living if those two are gone?
-</JULIET>
+</Juliette>
 
 <NURSE>	<55%>
 	Tybalt is gone, and Bromeo banished;
 	Bromeo, that kill'd him, he is banished.
 </NURSE>
 
-<JULIET>	<55%>
+<Juliette>	<55%>
 	O God! did Bromeo's hand shed Tybalt's blood?
-</JULIET>
+</Juliette>
 
 <NURSE>	<55%>
 	It did, it did; alas the day! it did.
 </NURSE>
 
-<JULIET>	<55%>
+<Juliette>	<55%>
 	O serpent heart, hid with a flowering face!
 	Did ever dragon keep so fair a cave?
 	Beautiful tyrant! fiend angelical!
@@ -3464,7 +3464,7 @@
 	Was ever book containing such vile matter
 	So fairly bound? O! that deceit should dwell
 	In such a gorgeous palace.
-</JULIET>
+</Juliette>
 
 <NURSE>	<55%>
 	There's no trust,
@@ -3475,20 +3475,20 @@
 	Shame come to Bromeo!
 </NURSE>
 
-<JULIET>	<55%>
+<Juliette>	<55%>
 	Blister'd be thy tongue
 	For such a wish! he was not born to shame:
 	Upon his brow shame is asham'd to sit;
 	For 'tis a throne where honour may be crown'd
 	Sole monarch of the universal earth.
 	O! what a beast was I to chide at him.
-</JULIET>
+</Juliette>
 
 <NURSE>	<55%>
 	Will you speak well of him that kill'd your cousin?
 </NURSE>
 
-<JULIET>	<56%>
+<Juliette>	<56%>
 	Shall I speak ill of him that is my husband?
 	Ah! poor my lord, what tongue shall smooth thy name,
 	When I, thy three-hours wife, have mangled it?
@@ -3515,19 +3515,19 @@
 	Which modern lamentation might have mov'd?
 	But with a rearward following Tybalt's death,
 	'Bromeo is banished!' to speak that word
-	Is father, mother, Tybalt, Bromeo, Juliet,
+	Is father, mother, Tybalt, Bromeo, Juliette,
 	All slain, all dead: 'Bromeo is banished!'
 	There is no end, no limit, measure, bound
 	In that word's death; no words can that woe sound.—
 	Where is my father and my mother, nurse?
-</JULIET>
+</Juliette>
 
 <NURSE>	<56%>
 	Weeping and wailing over Tybalt's corse:
 	Will you go to them? I will bring you thither.
 </NURSE>
 
-<JULIET>	<57%>
+<Juliette>	<57%>
 	Wash they his wounds with tears: mine shall be spent,
 	When theirs are dry, for Bromeo's banishment.
 	Take up those cords. Poor ropes, you are beguil'd,
@@ -3536,7 +3536,7 @@
 	But I, a maid, die maiden-widowed.
 	Come, cords; come, nurse; I'll to my wedding bed;
 	And death, not Bromeo, take my maidenhead!
-</JULIET>
+</Juliette>
 
 <NURSE>	<57%>
 	Hie to your chamber; I'll find Bromeo
@@ -3545,10 +3545,10 @@
 	I'll to him; he is hid at Laurence' cell.
 </NURSE>
 
-<JULIET>	<57%>
+<Juliette>	<57%>
 	O! find him; give this ring to my true knight,
 	And bid him come to take his last farewell.
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -3622,13 +3622,13 @@
 
 <Bromeo>	<58%>
 	'Tis torture, and not mercy: heaven is here,
-	Where Juliet lives; and every cat and dog
+	Where Juliette lives; and every cat and dog
 	And little mouse, every unworthy thing,
 	Live here in heaven and may look on her;
 	But Bromeo may not: more validity,
 	More honourable state, more courtship lives
 	In carrion flies than Bromeo: they may seize
-	On the white wonder of dear Juliet's hand,
+	On the white wonder of dear Juliette's hand,
 	And steal immortal blessing from her lips,
 	Who, even in pure and vestal modesty,
 	Still blush, as thinking their own kisses sin;
@@ -3661,7 +3661,7 @@
 
 <Bromeo>	<59%>
 	Yet 'banished!' Hang up philosophy!
-	Unless philosophy can make a Juliet,
+	Unless philosophy can make a Juliette,
 	Displant a town, reverse a prince's doom,
 	It helps not, it prevails not: talk no more.
 </Bromeo>
@@ -3680,7 +3680,7 @@
 
 <Bromeo>	<59%>
 	Thou canst not speak of that thou dost not feel:
-	Wert thou as young as I, Juliet thy love,
+	Wert thou as young as I, Juliette thy love,
 	An hour but married, Tybalt murdered,
 	Doting like me, and like me banished,
 	Then mightst thou speak, then mightst thou tear thy hair,
@@ -3721,7 +3721,7 @@
 <STAGE DIR>
 <Within.>
 </STAGE DIR> Let me come in, and you shall know my errand:
-	I come from Lady Juliet.
+	I come from Lady Juliette.
 </NURSE>
 
 <FRIAR LAURENCE>	<60%>
@@ -3750,7 +3750,7 @@
 	Piteous predicament! Even so lies she,
 	Blubbering and weeping, weeping and blubbering.
 	Stand up, stand up; stand, an you be a man:
-	For Juliet's sake, for her sake, rise and stand;
+	For Juliette's sake, for her sake, rise and stand;
 	Why should you fall into so deep an O?
 </FRIAR LAURENCE>
 
@@ -3763,7 +3763,7 @@
 </NURSE>
 
 <Bromeo>	<60%>
-	Spak'st thou of Juliet? how is it with her?
+	Spak'st thou of Juliette? how is it with her?
 	Doth she not think me an old murderer,
 	Now I have stain'd the childhood of our joy.
 	With blood remov'd but little from her own?
@@ -3819,7 +3819,7 @@
 	Like powder in a skilless soldier's flask,
 	To set a-fire by thine own ignorance,
 	And thou dismember'd with thine own defence.
-	What! rouse thee, man; thy Juliet is alive,
+	What! rouse thee, man; thy Juliette is alive,
 	For whose dear sake thou wast but lately dead;
 	There art thou happy: Tybalt would kill thee,
 	But thou slew'st Tybalt; there art thou happy too:
@@ -3947,7 +3947,7 @@
 
 <CAPULET>	<64%>
 	Well, get you gone: o' Thursday be it then.
-	Go you to Juliet ere you go to bed,
+	Go you to Juliette ere you go to bed,
 	Prepare her, wife, against this wedding-day.
 	Farewell, my lord. Light to my chamber, ho!
 	Afore me! it is so very very late,
@@ -3962,17 +3962,17 @@
 
 
 <SCENE 5>
-<The Same. Juliet's Chamber.>
+<The Same. Juliette's Chamber.>
 <STAGE DIR>
-<Enter Bromeo and Juliet.>
+<Enter Bromeo and Juliette.>
 </STAGE DIR>
-<JULIET>	<64%>
+<Juliette>	<64%>
 	Wilt thou be gone? it is not yet near day:
 	It was the nightingale, and not the lark,
 	That pierc'd the fearful hollow of thine ear;
 	Nightly she sings on you pomegranate tree:
 	Believe me, love, it was the nightingale.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<64%>
 	It was the lark, the herald of the morn,
@@ -3983,13 +3983,13 @@
 	I must be gone and live, or stay and die.
 </Bromeo>
 
-<JULIET>	<64%>
+<Juliette>	<64%>
 	Yon light is not daylight, I know it, I:
 	It is some meteor that the sun exhales,
 	To be to thee this night a torch-bearer,
 	And light thee on thy way to Mantua:
 	Therefore stay yet; thou need'st not to be gone.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<64%>
 	Let me be ta'en, let me be put to death;
@@ -3999,11 +3999,11 @@
 	Nor that is not the lark, whose notes do beat
 	The vaulty heaven so high above our heads:
 	I have more care to stay than will to go:
-	Come, death, and welcome! Juliet wills it so.
+	Come, death, and welcome! Juliette wills it so.
 	How is't, my soul? let's talk; it is not day.
 </Bromeo>
 
-<JULIET>	<65%>
+<Juliette>	<65%>
 	It is, it is; hie hence, be gone, away!
 	It is the lark that sings so out of tune,
 	Straining harsh discords and unpleasing sharps.
@@ -4014,7 +4014,7 @@
 	Since arm from arm that voice doth us affray,
 	Hunting thee hence with hunts-up to the day.
 	O! now be gone; more light and light it grows.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<65%>
 	More light and light; more dark and dark our woes.
@@ -4027,9 +4027,9 @@
 	Madam!
 </NURSE>
 
-<JULIET>	<65%>
+<Juliette>	<65%>
 	Nurse!
-</JULIET>
+</Juliette>
 
 <NURSE>	<65%>
 	Your lady mother is coming to your chamber:
@@ -4039,9 +4039,9 @@
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<65%>
+<Juliette>	<65%>
 	Then, window, let day in, and let life out.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<65%>
 	Farewell, farewell! one kiss, and I'll descend.
@@ -4050,13 +4050,13 @@
 <Descends.>
 </STAGE DIR>
 
-<JULIET>	<65%>
+<Juliette>	<65%>
 	Art thou gone so? my lord, my love, my friend!
 	I must hear from thee every day in the hour,
 	For in a minute there are many days:
 	O! by this count I shall be much in years
 	Ere I again behold my Bromeo.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<65%>
 	Farewell!
@@ -4064,21 +4064,21 @@
 	That may convey my greetings, love, to thee.
 </Bromeo>
 
-<JULIET>	<65%>
+<Juliette>	<65%>
 	O! think'st thou we shall ever meet again?
-</JULIET>
+</Juliette>
 
 <Bromeo>	<66%>
 	I doubt it not; and all these woes shall serve
 	For sweet discourses in our time to come.
 </Bromeo>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	O God! I have an ill-divining soul:
 	Methinks I see thee, now thou art so low,
 	As one dead in the bottom of a tomb:
 	Either my eyesight fails, or thou look'st pale.
-</JULIET>
+</Juliette>
 
 <Bromeo>	<66%>
 	And trust me, love, in my eye so do you:
@@ -4088,13 +4088,13 @@
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	O fortune, fortune! all men call thee fickle:
 	If thou art fickle, what dost thou with him
 	That is renown'd for faith? Be fickle, fortune;
 	For then, I hope, thou wilt not keep him long,
 	But send him back.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<66%>
 <STAGE DIR>
@@ -4102,22 +4102,22 @@
 </STAGE DIR> Ho, daughter! are you up?
 </LADY CAPULET>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	Who is't that calls? is it my lady mother?
 	Is she not down so late, or up so early?
 	What unaccustom'd cause procures her hither?
 
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Enter Lady Capulet.>
 </STAGE DIR>
 <LADY CAPULET>	<66%>
-	Why, how now, Juliet!
+	Why, how now, Juliette!
 </LADY CAPULET>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	Madam, I am not well.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<66%>
 	Evermore weeping for your cousin's death?
@@ -4127,49 +4127,49 @@
 	But much of grief shows still some want of wit.
 </LADY CAPULET>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	Yet let me weep for such a feeling loss.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<66%>
 	So shall you feel the loss, but not the friend
 	Which you weep for.
 </LADY CAPULET>
 
-<JULIET>	<66%>
+<Juliette>	<66%>
 	Feeling so the loss,
 	I cannot choose but ever weep the friend.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<66%>
 	Well, girl, thou weep'st not so much for his death,
 	As that the villain lives which slaughter'd him.
 </LADY CAPULET>
 
-<JULIET>	<67%>
+<Juliette>	<67%>
 	What villain, madam?
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<67%>
 	That same villain, Bromeo.
 </LADY CAPULET>
 
-<JULIET>	<67%>
+<Juliette>	<67%>
 <STAGE DIR>
 <Aside.>
 </STAGE DIR> Villain and he be many miles asunder.
 	God pardon him! I do, with all my heart;
 	And yet no man like he doth grieve my heart.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<67%>
 	That is because the traitor murderer lives.
 </LADY CAPULET>
 
-<JULIET>	<67%>
+<Juliette>	<67%>
 	Ay, madam, from the reach of these my hands.
 	Would none but I might venge my cousin's death!
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<67%>
 	We will have vengeance for it, fear thou not:
@@ -4180,7 +4180,7 @@
 	And then, I hope, thou wilt be satisfied.
 </LADY CAPULET>
 
-<JULIET>	<67%>
+<Juliette>	<67%>
 	Indeed, I never shall be satisfied
 	With Bromeo, till I behold him—dead—
 	Is my poor heart so for a kinsman vex'd:
@@ -4191,17 +4191,17 @@
 	To hear him nam'd, and cannot come to him,
 	To wreak the love I bore my cousin Tybalt
 	Upon his body that hath slaughter'd him.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<67%>
 	Find thou the means, and I'll find such a man.
 	But now I'll tell thee joyful tidings, girl.
 </LADY CAPULET>
 
-<JULIET>	<67%>
+<Juliette>	<67%>
 	And joy comes well in such a needy time:
 	What are they, I beseech your ladyship?
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<67%>
 	Well, well, thou hast a careful father, child;
@@ -4210,9 +4210,9 @@
 	That thou expect'st not, nor I look'd not for.
 </LADY CAPULET>
 
-<JULIET>	<68%>
+<Juliette>	<68%>
 	Madam, in happy time, what day is that?
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<68%>
 	Marry, my child, early next Thursday morn
@@ -4221,7 +4221,7 @@
 	Shall happily make thee there a joyful bride.
 </LADY CAPULET>
 
-<JULIET>	<68%>
+<Juliette>	<68%>
 	Now, by Saint Peter's church, and Peter too,
 	He shall not make me there a joyful bride.
 	I wonder at this haste; that I must wed
@@ -4230,7 +4230,7 @@
 	I will not marry yet; and, when I do, I swear,
 	It shall be Bromeo, whom you know I hate,
 	Rather than Paris. These are news indeed!
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<68%>
 	Here comes your father; tell him so yourself,
@@ -4269,11 +4269,11 @@
 	So worthy a gentleman to be her bridegroom?
 </CAPULET>
 
-<JULIET>	<69%>
+<Juliette>	<69%>
 	Not proud, you have; but thankful, that you have:
 	Proud can I never be of what I hate;
 	But thankful even for hate, that is meant love.
-</JULIET>
+</Juliette>
 
 <CAPULET>	<69%>
 	How now! how now, chop-logic! What is this?
@@ -4291,10 +4291,10 @@
 	Fie, fie! what, are you mad?
 </LADY CAPULET>
 
-<JULIET>	<69%>
+<Juliette>	<69%>
 	Good father, I beseech you on my knees,
 	Hear me with patience but to speak a word.
-</JULIET>
+</Juliette>
 
 <CAPULET>	<69%>
 	Hang thee, young baggage! disobedient wretch!
@@ -4367,14 +4367,14 @@
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<70%>
+<Juliette>	<70%>
 	Is there no pity sitting in the clouds,
 	That sees into the bottom of my grief?
 	O! sweet my mother, cast me not away:
 	Delay this marriage for a month, a week;
 	Or, if you do not, make the bridal bed
 	In that dim monument where Tybalt lies.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<70%>
 	Talk not to me, for I'll not speak a word.
@@ -4384,7 +4384,7 @@
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<71%>
+<Juliette>	<71%>
 	O God! O nurse! how shall this be prevented?
 	My husband is on earth, my faith in heaven;
 	How shall that faith return again to earth,
@@ -4394,7 +4394,7 @@
 	Upon so soft a subject as myself!
 	What sayst thou? hast thou not a word of joy?
 	Some comfort, nurse?
-</JULIET>
+</Juliette>
 
 <NURSE>	<71%>
 	Faith, here it is. Bromeo
@@ -4413,29 +4413,29 @@
 	As living here and you no use of him.
 </NURSE>
 
-<JULIET>	<71%>
+<Juliette>	<71%>
 	Speakest thou from thy heart?
-</JULIET>
+</Juliette>
 
 <NURSE>	<71%>
 	And from my soul too;
 	Or else beshrew them both.
 </NURSE>
 
-<JULIET>	<71%>
+<Juliette>	<71%>
 	Amen!
-</JULIET>
+</Juliette>
 
 <NURSE>	<71%>
 	What!
 </NURSE>
 
-<JULIET>	<71%>
+<Juliette>	<71%>
 	Well, thou hast comforted me marvellous much.
 	Go in; and tell my lady I am gone,
 	Having displeas'd my father, to Laurence' cell,
 	To make confession and to be absolv'd.
-</JULIET>
+</Juliette>
 
 <NURSE>	<71%>
 	Marry, I will; and this is wisely done.
@@ -4444,7 +4444,7 @@
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<72%>
+<Juliette>	<72%>
 	Ancient damnation! O most wicked fiend!
 	Is it more sin to wish me thus forsworn,
 	Or to dispraise my lord with that same tongue
@@ -4464,7 +4464,7 @@
 <ACT 4>
 
 
-</JULIET>
+</Juliette>
 <SCENE 1>
 <Verona. Friar Laurence's Cell.>
 <STAGE DIR>
@@ -4505,23 +4505,23 @@
 
 </FRIAR LAURENCE>
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
 <PARIS>	<72%>
 	Happily met, my lady and my wife!
 </PARIS>
 
-<JULIET>	<72%>
+<Juliette>	<72%>
 	That may be, sir, when I may be a wife.
-</JULIET>
+</Juliette>
 
 <PARIS>	<72%>
 	That may be must be, love, on Thursday next.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	What must be shall be.
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<73%>
 	That's a certain text.
@@ -4531,54 +4531,54 @@
 	Come you to make confession to this father?
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	To answer that, I should confess to you.
-</JULIET>
+</Juliette>
 
 <PARIS>	<73%>
 	Do not deny to him that you love me.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	I will confess to you that I love him.
-</JULIET>
+</Juliette>
 
 <PARIS>	<73%>
 	So will ye, I am sure, that you love me.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	If I do so, it will be of more price,
 	Being spoke behind your back, than to your face.
-</JULIET>
+</Juliette>
 
 <PARIS>	<73%>
 	Poor soul, thy face is much abus'd with tears.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	The tears have got small victory by that;
 	For it was bad enough before their spite.
-</JULIET>
+</Juliette>
 
 <PARIS>	<73%>
 	Thou wrong'st it, more than tears, with that report.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	That is no slander, sir, which is a truth;
 	And what I spake, I spake it to my face.
-</JULIET>
+</Juliette>
 
 <PARIS>	<73%>
 	Thy face is mine, and thou hast slander'd it.
 </PARIS>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	It may be so, for it is not mine own.
 	Are you at leisure, holy father, now;
 	Or shall I come to you at evening mass?
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<73%>
 	My leisure serves me, pensive daughter, now:
@@ -4587,26 +4587,26 @@
 
 <PARIS>	<73%>
 	God shield, I should disturb devotion!
-	Juliet, on Thursday early will I rouse you:
+	Juliette, on Thursday early will I rouse you:
 	Till then, adieu; and keep this holy kiss.
 </PARIS>
 <STAGE DIR>
 <Exit.>
 </STAGE DIR>
 
-<JULIET>	<73%>
+<Juliette>	<73%>
 	O! shut the door! and when thou hast done so,
 	Come weep with me; past hope, past cure, past help!
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<73%>
-	Ah! Juliet, I already know thy grief;
+	Ah! Juliette, I already know thy grief;
 	It strains me past the compass of my wits:
 	I hear thou must, and nothing may prorogue it,
 	On Thursday next be married to this county.
 </FRIAR LAURENCE>
 
-<JULIET>	<74%>
+<Juliette>	<74%>
 	Tell me not, friar, that thou hear'st of this,
 	Unless thou tell me how I may prevent it:
 	If, in thy wisdom, thou canst give no help,
@@ -4625,7 +4625,7 @@
 	Could to no issue of true honour bring.
 	Be not so long to speak; I long to die,
 	If what thou speak'st speak not of remedy.
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<74%>
 	Hold, daughter; I do spy a kind of hope,
@@ -4639,7 +4639,7 @@
 	And, if thou dar'st, I'll give thee remedy.
 </FRIAR LAURENCE>
 
-<JULIET>	<74%>
+<Juliette>	<74%>
 	O! bid me leap, rather than marry Paris,
 	From off the battlements of yonder tower;
 	Or walk in thievish ways; or bid me lurk
@@ -4652,7 +4652,7 @@
 	Things that, to hear them told, have made me tremble;
 	And I will do it without fear or doubt,
 	To live an unstain'd wife to my sweet love.
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<75%>
 	Hold, then; go home, be merry, give consent
@@ -4689,9 +4689,9 @@
 	Abate thy valour in the acting it.
 </FRIAR LAURENCE>
 
-<JULIET>	<76%>
+<Juliette>	<76%>
 	Give me, give me! O! tell me not of fear!
-</JULIET>
+</Juliette>
 
 <FRIAR LAURENCE>	<76%>
 	Hold; get you gone, be strong and prosperous
@@ -4699,10 +4699,10 @@
 	To Mantua, with my letters to thy lord.
 </FRIAR LAURENCE>
 
-<JULIET>	<76%>
+<Juliette>	<76%>
 	Love, give me strength! and strength shall help afford.
 	Farewell, dear father!
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -4759,31 +4759,31 @@
 
 </NURSE>
 <STAGE DIR>
-<Enter Juliet.>
+<Enter Juliette.>
 </STAGE DIR>
 <CAPULET>	<76%>
 	How now, my headstrong! where have you been gadding?
 </CAPULET>
 
-<JULIET>	<77%>
+<Juliette>	<77%>
 	Where I have learn'd me to repent the sin
 	Of disobedient opposition
 	To you and your behests; and am enjoin'd
 	By holy Laurence to fall prostrate here,
 	And beg your pardon. Pardon, I beseech you!
 	Henceforward I am ever rul'd by you.
-</JULIET>
+</Juliette>
 
 <CAPULET>	<77%>
 	Send for the county; go tell him of this:
 	I'll have this knot knit up to-morrow morning.
 </CAPULET>
 
-<JULIET>	<77%>
+<Juliette>	<77%>
 	I met the youthful lord at Laurence' cell;
 	And gave him what becomed love I might,
 	Not stepping o'er the bounds of modesty.
-</JULIET>
+</Juliette>
 
 <CAPULET>	<77%>
 	Why, I'm glad on't; this is well: stand up:
@@ -4793,11 +4793,11 @@
 	All our whole city is much bound to him.
 </CAPULET>
 
-<JULIET>	<77%>
+<Juliette>	<77%>
 	Nurse, will you go with me into my closet,
 	To help me sort such needful ornaments
 	As you think fit to furnish me to-morrow?
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<77%>
 	No, not till Thursday; there is time enough.
@@ -4807,7 +4807,7 @@
 	Go, nurse, go with her. We'll to church to-morrow.
 </CAPULET>
 <STAGE DIR>
-<Exeunt Juliet and Nurse.>
+<Exeunt Juliette and Nurse.>
 </STAGE DIR>
 
 <LADY CAPULET>	<77%>
@@ -4818,7 +4818,7 @@
 <CAPULET>	<77%>
 	Tush! I will stir about,
 	And all things shall be well, I warrant thee, wife:
-	Go thou to Juliet, help to deck up her;
+	Go thou to Juliette, help to deck up her;
 	I'll not to bed to-night; let me alone;
 	I'll play the housewife for this once. What, ho!
 	They are all forth: well, I will walk myself
@@ -4834,18 +4834,18 @@
 
 
 <SCENE 3>
-<The Same. Juliet's Chamber.>
+<The Same. Juliette's Chamber.>
 <STAGE DIR>
-<Enter Juliet and Nurse.>
+<Enter Juliette and Nurse.>
 </STAGE DIR>
-<JULIET>	<78%>
+<Juliette>	<78%>
 	Ay, those attires are best; but, gentle nurse,
 	I pray thee, leave me to myself to-night;
 	For I have need of many orisons
 	To move the heavens to smile upon my state,
 	Which, well thou know'st, is cross and full of sin.
 
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Enter Lady Capulet.>
 </STAGE DIR>
@@ -4853,14 +4853,14 @@
 	What! are you busy, ho? need you my help?
 </LADY CAPULET>
 
-<JULIET>	<78%>
+<Juliette>	<78%>
 	No, madam; we have cull'd such necessaries
 	As are behoveful for our state to-morrow:
 	So please you, let me now be left alone,
 	And let the nurse this night sit up with you;
 	For, I am sure, you have your hands full all
 	In this so sudden business.
-</JULIET>
+</Juliette>
 
 <LADY CAPULET>	<78%>
 	Good-night:
@@ -4870,7 +4870,7 @@
 <Exeunt Lady Capulet and Nurse.>
 </STAGE DIR>
 
-<JULIET>	<78%>
+<Juliette>	<78%>
 	Farewell! God knows when we shall meet again.
 	I have a faint cold fear thrills through my veins,
 	That almost freezes up the heat of life:
@@ -4920,7 +4920,7 @@
 	Seeking out Bromeo, that did spit his body
 	Upon a rapier's point. Stay, Tybalt, stay!
 	Bromeo, I come! this do I drink to thee.
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <She falls upon her bed within the curtains.>
 </STAGE DIR>
@@ -5010,7 +5010,7 @@
 <STAGE DIR>
 <Re-enter Nurse.>
 </STAGE DIR>
-	Go waken Juliet, go and trim her up;
+	Go waken Juliette, go and trim her up;
 	I'll go and chat with Paris. Hie, make haste,
 	Make haste; the bridegroom he is come already:
 	Make haste, I say.
@@ -5024,12 +5024,12 @@
 
 
 <SCENE 5>
-<The Same. Juliet's Chamber.>
+<The Same. Juliette's Chamber.>
 <STAGE DIR>
 <Enter Nurse.>
 </STAGE DIR>
 <NURSE>	<81%>
-	Mistress! what, mistress! Juliet! fast, I warrant her, she:
+	Mistress! what, mistress! Juliette! fast, I warrant her, she:
 	Why, lamb! why, lady! fie, you slug-a-bed!
 	Why, love, I say! madam! sweet-heart! why, bride!
 	What! not a word? you take your pennyworths now:
@@ -5076,7 +5076,7 @@
 <Enter Capulet.>
 </STAGE DIR>
 <CAPULET>	<82%>
-	For shame! bring Juliet forth; her lord is come.
+	For shame! bring Juliette forth; her lord is come.
 </CAPULET>
 
 <NURSE>	<82%>
@@ -5363,7 +5363,7 @@
 	News from Verona! How now, Balthasar?
 	Dost thou not bring me letters from the friar?
 	How doth my lady? Is my father well?
-	How fares my Juliet? That I ask again;
+	How fares my Juliette? That I ask again;
 </Bromeo>
 	For nothing can be ill if she be well.
 <BALTHASAR>	<86%>
@@ -5404,7 +5404,7 @@
 <STAGE DIR>
 <Exit Balthasar.>
 </STAGE DIR>
-	Well, Juliet, I will he with thee to-night.
+	Well, Juliette, I will he with thee to-night.
 	Let's see for means: O mischief! thou art swift
 	To enter in the thoughts of desperate men.
 	I do remember an apothecary,
@@ -5484,7 +5484,7 @@
 	I sell thee poison, thou hast sold me none.
 	Farewell; buy food, and get thyself in flesh.
 	Come, cordial and not poison, go with me
-	To Juliet's grave, for there must I use thee.
+	To Juliette's grave, for there must I use thee.
 </Bromeo>
 <STAGE DIR>
 <Exeunt.>
@@ -5550,7 +5550,7 @@
 
 <FRIAR LAURENCE>	<89%>
 	Now must I to the monument alone;
-	Within these three hours will fair Juliet wake:
+	Within these three hours will fair Juliette wake:
 	She will beshrew me much that Bromeo
 	Hath had no notice of these accidents;
 	But I will write again to Mantus,
@@ -5714,7 +5714,7 @@
 <STAGE DIR>
 <Falls.>
 </STAGE DIR> O, I am slain!—If thou be merciful,
-	Open the tomb, lay me with Juliet.
+	Open the tomb, lay me with Juliette.
 </PARIS>
 <STAGE DIR>
 <Dies.>
@@ -5725,14 +5725,14 @@
 	Mercutio's kinsman, noble County Paris!
 	What said my man when my betossed soul
 	Did not attend him as we rode? I think
-	He told me Paris should have married Juliet:
+	He told me Paris should have married Juliette:
 	Said he not so? or did I dream it so?
-	Or am I mad, hearing him talk of Juliet,
+	Or am I mad, hearing him talk of Juliette,
 	To think it was so? O! give me thy hand,
 	One writ with me in sour misfortune's book:
 	I'll bury thee in a triumphant grave;
 	A grave? O, no! a lanthorn, slaughter'd youth,
-	For here lies Juliet, and her beauty makes
+	For here lies Juliette, and her beauty makes
 	This vault a feasting presence full of light.
 	Death, lie thou there, by a dead man interr'd,
 <STAGE DIR>
@@ -5751,7 +5751,7 @@
 	O! what more favour can I do to thee,
 	Than with that hand that cut thy youth in twain
 	To sunder his that was thine enemy?
-	Forgive me, cousin! Ah! dear Juliet,
+	Forgive me, cousin! Ah! dear Juliette,
 	Why art thou yet so fair? Shall I believe
 	That unsubstantial Death is amorous,
 	And that the lean abhorred monster keeps
@@ -5857,14 +5857,14 @@
 	The lady stirs.
 </FRIAR LAURENCE>
 <STAGE DIR>
-<Juliet wakes.>
+<Juliette wakes.>
 </STAGE DIR>
 
-<JULIET>	<94%>
+<Juliette>	<94%>
 	O, comfortable friar! where is my lord?
 	I do remember well where I should be,
 	And there I am. Where is my Bromeo?
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Noise within.>
 </STAGE DIR>
@@ -5878,12 +5878,12 @@
 	And Paris too: come, I'll dispose of thee
 	Among a sisterhood of holy nuns.
 	Stay not to question, for the watch is coming;
-	Come, go, good Juliet.—<STAGE DIR>
+	Come, go, good Juliette.—<STAGE DIR>
 <Noise again.>
 </STAGE DIR> I dare no longer stay.
 </FRIAR LAURENCE>
 
-<JULIET>	<95%>
+<Juliette>	<95%>
 	Go, get thee hence, for I will not away.
 <STAGE DIR>
 <Exit Friar Laurence.>
@@ -5898,7 +5898,7 @@
 <Kisses him.>
 </STAGE DIR>
 	Thy lips are warm!
-</JULIET>
+</Juliette>
 
 <WATCH 1>	<95%>
 <STAGE DIR>
@@ -5906,7 +5906,7 @@
 </STAGE DIR> Lead, boy: which way?
 </WATCH 1>
 
-<JULIET>	<95%>
+<Juliette>	<95%>
 	Yea, noise? then I'll be brief. O happy dagger!
 <STAGE DIR>
 <Snatching Bromeo's dagger.>
@@ -5918,7 +5918,7 @@
 <Falls on Bromeo's body and dies.>
 </STAGE DIR>
 
-</JULIET>
+</Juliette>
 <STAGE DIR>
 <Enter Watch, with the Page of Paris.>
 </STAGE DIR>
@@ -5933,7 +5933,7 @@
 <Exeunt some of the Watch.>
 </STAGE DIR>
 	Pitiful sight! here lies the county slain,
-	And Juliet bleeding, warm, and newly dead,
+	And Juliette bleeding, warm, and newly dead,
 	Who here hath lain these two days buried.
 	Go, tell the prince, run to the Capulets,
 	Raise up the Montagues, some others search:
@@ -5986,7 +5986,7 @@
 
 <LADY CAPULET>	<96%>
 	The people in the street cry Bromeo,
-	Some Juliet, and some Paris; and all run
+	Some Juliette, and some Paris; and all run
 	With open outcry toward our monument.
 </LADY CAPULET>
 
@@ -5996,7 +5996,7 @@
 
 <WATCH 1>	<96%>
 	Sovereign, here lies the County Paris slain;
-	And Bromeo dead; and Juliet, dead before,
+	And Bromeo dead; and Juliette, dead before,
 	Warm and new kill'd.
 </WATCH 1>
 
@@ -6070,12 +6070,12 @@
 <FRIAR LAURENCE>	<98%>
 	I will be brief, for my short date of breath
 	Is not so long as is a tedious tale.
-	Bromeo, there dead, was husband to that Juliet;
+	Bromeo, there dead, was husband to that Juliette;
 	And she, there dead, that Bromeo's faithful wife:
 	I married them; and their stolen marriage-day
 	Was Tybalt's doomsday, whose untimely death
 	Banish'd the new-made bridegroom from this city;
-	For whom, and not for Tybalt, Juliet pin'd.
+	For whom, and not for Tybalt, Juliette pin'd.
 	You, to remove that siege of grief from her,
 	Betroth'd, and would have married her perforce,
 	To County Paris: then comes she to me,
@@ -6117,7 +6117,7 @@
 </PRINCE>
 
 <BALTHASAR>	<99%>
-	I brought my master news of Juliet's death;
+	I brought my master news of Juliette's death;
 	And then in post he came from Mantua
 	To this same place, to this same monument.
 	This letter he early bid me give his father,
@@ -6144,7 +6144,7 @@
 	Their course of love, the tidings of her death:
 	And here he writes that he did buy a poison
 	Of a poor 'pothecary, and therewithal
-	Came to this vault to die, and lie with Juliet.
+	Came to this vault to die, and lie with Juliette.
 	Where be these enemies?—Capulet! Montague!
 	See what a scourge is laid upon your hate,
 	That heaven finds means to kill your joys with love;
@@ -6163,7 +6163,7 @@
 	For I will raise her statue in pure gold;
 	That while Verona by that name is known.
 	There shall no figure at such rate be set
-	As that of true and faithful Juliet.
+	As that of true and faithful Juliette.
 </MONTAGUE>
 
 <CAPULET>	<100%>
@@ -6177,7 +6177,7 @@
 	Go hence, to have more talk of these sad things:
 	Some shall be pardon'd, and some punished:
 	For never was a story of more woe
-	Than this of Juliet and her Bromeo.
+	Than this of Juliette and her Bromeo.
 </PRINCE>
 <STAGE DIR>
 <Exeunt.>
