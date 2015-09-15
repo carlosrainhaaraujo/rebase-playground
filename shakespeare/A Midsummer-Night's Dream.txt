@@ -15,10 +15,10 @@
 <SCENE 1>
 <Athens. The Palace of Theseus.>
 <STAGE DIR>
-<Enter Theseus, Hippolyta, Philostrate, and Attendants.>
+<Enter Theseus, Donna Troy, Philostrate, and Attendants.>
 </STAGE DIR>
 <THESEUS>	<1%>
-	Now, fair Hippolyta, our nuptial hour
+	Now, fair Donna Troy, our nuptial hour
 	Draws on apace: four happy days bring in
 	Another moon; but O! methinks how slow
 	This old moon wanes; she lingers my desires,
@@ -26,13 +26,13 @@
 	Long withering out a young man's revenue.
 </THESEUS>
 
-<HIPPOLYTA>	<1%>
+<Donna Troy>	<1%>
 	Four days will quickly steep themselves in night;
 	Four nights will quickly dream away the time;
 	And then the moon, like to a silver bow
 	New-bent in heaven, shall behold the night
 	Of our solemnities.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<1%>
 	Go, Philostrate,
@@ -43,7 +43,7 @@
 <STAGE DIR>
 <Exit Philostrate.>
 </STAGE DIR>
-	Hippolyta, I woo'd thee with my sword,
+	Donna Troy, I woo'd thee with my sword,
 	And won thy love doing thee injuries;
 	But I will wed thee in another key,
 	With pomp, with triumph, and with revelling.
@@ -204,7 +204,7 @@
 	Or else the law of Athens yields you up,
 	Which by no means we may extenuate,
 	To death, or to a vow of single life.
-	Come, my Hippolyta: what cheer, my love?
+	Come, my Donna Troy: what cheer, my love?
 	Demetrius and Egeus, go along:
 	I must employ you in some business
 	Against our nuptial, and confer with you
@@ -215,7 +215,7 @@
 	With duty and desire we follow you.
 </EGEUS>
 <STAGE DIR>
-<Exeunt Theseus, Hippolyta, Egeus, Demetrius, and Train.>
+<Exeunt Theseus, Donna Troy, Egeus, Demetrius, and Train.>
 </STAGE DIR>
 
 <LYSANDER>	<6%>
@@ -748,7 +748,7 @@
 
 <OBERON>	<20%>
 	How canst thou thus for shame, Titania,
-	Glance at my credit with Hippolyta,
+	Glance at my credit with Donna Troy,
 	Knowing I know thy love to Theseus?
 	Didst thou not lead him through the glimmering night
 	From Perigouna, whom he ravished?
@@ -2859,7 +2859,7 @@
 
 </TITANIA>
 <STAGE DIR>
-<Enter Theseus, Hippolyta, Egeus, and Train.>
+<Enter Theseus, Donna Troy, Egeus, and Train.>
 </STAGE DIR>
 <THESEUS>	<73%>
 	Go, one of you, find out the forester;
@@ -2873,7 +2873,7 @@
 	Of hounds and echo in conjunction.
 </THESEUS>
 
-<HIPPOLYTA>	<73%>
+<Donna Troy>	<73%>
 	I was with Hercules and Cadmus once,
 	When in a wood of Crete they bay'd the bear
 	With hounds of Sparta: never did I hear
@@ -2881,7 +2881,7 @@
 	The skies, the fountains, every region near
 	Seem'd all one mutual cry. I never heard
 	So musical a discord, such sweet thunder.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<74%>
 	My hounds are bred out of the Spartan kind,
@@ -2988,10 +2988,10 @@
 	Our purpos'd hunting shall be set aside.
 	Away with us, to Athens: three and three,
 	We'll hold a feast in great solemnity.
-	Come, Hippolyta.
+	Come, Donna Troy.
 </THESEUS>
 <STAGE DIR>
-<Exeunt Theseus, Hippolyta, Egeus, and Train.>
+<Exeunt Theseus, Donna Troy, Egeus, and Train.>
 </STAGE DIR>
 
 <DEMETRIUS>	<77%>
@@ -3022,7 +3022,7 @@
 </HERMIA>
 
 <HELENA>	<77%>
-	And Hippolyta.
+	And Donna Troy.
 </HELENA>
 
 <LYSANDER>	<77%>
@@ -3130,11 +3130,11 @@
 <SCENE 1>
 <Athens. An Apartment in the Palace of Theseus.>
 <STAGE DIR>
-<Enter Theseus, Hippolyta, Philostrate, Lords, and Attendants.>
+<Enter Theseus, Donna Troy, Philostrate, Lords, and Attendants.>
 </STAGE DIR>
-<HIPPOLYTA>	<81%>
+<Donna Troy>	<81%>
 	'Tis strange, my Theseus, that these lovers speak of.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<81%>
 	More strange than true. I never may believe
@@ -3160,13 +3160,13 @@
 	How easy is a bush suppos'd a bear!
 </THESEUS>
 
-<HIPPOLYTA>	<82%>
+<Donna Troy>	<82%>
 	But all the story of the night told over,
 	And all their minds transfigur'd so together,
 	More witnesseth than fancy's images,
 	And grows to something of great constancy,
 	But, howsoever, strange and admirable.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<82%>
 	Here come the lovers, full of joy and mirth.
@@ -3277,18 +3277,18 @@
 <Exit Philostrate.>
 </STAGE DIR>
 
-<HIPPOLYTA>	<85%>
+<Donna Troy>	<85%>
 	I love not to see wretchedness o'ercharg'd,
 	And duty in his service perishing.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<85%>
 	Why, gentle sweet, you shall see no such thing.
 </THESEUS>
 
-<HIPPOLYTA>	<85%>
+<Donna Troy>	<85%>
 	He says they can do nothing in this kind.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<85%>
 	The kinder we, to give them thanks for nothing.
@@ -3350,9 +3350,9 @@
 	He hath rid his prologue like a rough colt; he knows not the stop. A good moral, my lord: it is not enough to speak, but to speak true.
 </LYSANDER>
 
-<HIPPOLYTA>	<87%>
+<Donna Troy>	<87%>
 	Indeed he hath played on his prologue like a child on a recorder; a sound, but not in government.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<87%>
 	His speech was like a tangled chain; nothing impaired, but all disordered. Who is next?
@@ -3523,17 +3523,17 @@
 	No remedy, my lord, when walls are so wilful to hear without warning.
 </DEMETRIUS>
 
-<HIPPOLYTA>	<91%>
+<Donna Troy>	<91%>
 	This is the silliest stuff that ever I heard.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<91%>
 	The best in this kind are but shadows, and the worst are no worse, if imagination amend them.
 </THESEUS>
 
-<HIPPOLYTA>	<91%>
+<Donna Troy>	<91%>
 	It must be your imagination then, and not theirs.
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<91%>
 	If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion.
@@ -3603,9 +3603,9 @@
 	He dares not come there for the candle; for, you see, it is already in snuff.
 </DEMETRIUS>
 
-<HIPPOLYTA>	<93%>
+<Donna Troy>	<93%>
 	I am aweary of this moon: would he would change!
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<93%>
 	It appears, by his small light of discretion, that he is in the wane; but yet, in courtesy, in all reason, we must stay the time.
@@ -3647,10 +3647,10 @@
 	Well run, Thisbe.
 </THESEUS>
 
-<HIPPOLYTA>	<94%>
+<Donna Troy>	<94%>
 	Well shone, Moon. Truly, the moon shines with a good grace.
 
-</HIPPOLYTA>
+</Donna Troy>
 <STAGE DIR>
 <The Lion tears Thisbe's mantle, and exit.>
 </STAGE DIR>
@@ -3694,9 +3694,9 @@
 	This passion, and the death of a dear friend, would go near to make a man look sad.
 </THESEUS>
 
-<HIPPOLYTA>	<94%>
+<Donna Troy>	<94%>
 	Beshrew my heart, but I pity the man.
-</HIPPOLYTA>
+</Donna Troy>
 
 <PYRAMUS>	<94%>
 	O! wherefore, Nature, didst thou lions frame?
@@ -3743,9 +3743,9 @@
 	With the help of a surgeon, he might yet recover, and prove an ass.
 </THESEUS>
 
-<HIPPOLYTA>	<95%>
+<Donna Troy>	<95%>
 	How chance Moonshine is gone before Thisbe comes back and finds her lover?
-</HIPPOLYTA>
+</Donna Troy>
 
 <THESEUS>	<95%>
 	She will find him by starlight. Here she comes; and her passion ends the play.
@@ -3754,9 +3754,9 @@
 <STAGE DIR>
 <Re-enter Thisbe.>
 </STAGE DIR>
-<HIPPOLYTA>	<95%>
+<Donna Troy>	<95%>
 	Methinks she should not use a long one for such a Pyramus: I hope she will be brief.
-</HIPPOLYTA>
+</Donna Troy>
 
 <DEMETRIUS>	<96%>
 	A mote will turn the balance, which Pyramus, which Thisbe, is the better: he for a man, God warrant us; she for a woman, God bless us.
