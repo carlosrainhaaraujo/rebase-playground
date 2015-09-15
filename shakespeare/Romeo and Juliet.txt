@@ -736,7 +736,7 @@
 
 <Bromeo>	<11%>
 	Stay, fellow; I can read.
-	Signior Martino and his wife and daughters; County Anselme and his beauteous sisters; the lady widow of Vitruvio; Signior Placentio, and his lovely nieces; Mercutio and his brother Valentine; mine uncle Capulet, his wife and daughters; my fair niece Rosaline; Livia; Signior Valentio and his cousin Tybalt; Lucio and the lively Helena.
+	Signior Martino and his wife and daughters; County Anselme and his beauteous sisters; the lady widow of Vitruvio; Signior Placentio, and his lovely nieces; Mercury and his brother Valentine; mine uncle Capulet, his wife and daughters; my fair niece Rosaline; Livia; Signior Valentio and his cousin Tybalt; Lucio and the lively Helena.
 	A fair assembly: whither should they come?
 </Bromeo>
 
@@ -1022,7 +1022,7 @@
 <SCENE 4>
 <The Same. A Street.>
 <STAGE DIR>
-<Enter Bromeo, Mercutio, Benvolio, with five or six Masquers, Torch-Bearers, and Others.>
+<Enter Bromeo, Mercury, Benvolio, with five or six Masquers, Torch-Bearers, and Others.>
 </STAGE DIR>
 <Bromeo>	<16%>
 	What! shall this speech be spoke for our excuse,
@@ -1045,9 +1045,9 @@
 	Being but heavy, I will bear the light.
 </Bromeo>
 
-<MERCUTIO>	<16%>
+<Mercury>	<16%>
 	Nay, gentle Bromeo, we must have you dance.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<16%>
 	Not I, believe me: you have dancing shoes
@@ -1055,10 +1055,10 @@
 	So stakes me to the ground I cannot move.
 </Bromeo>
 
-<MERCUTIO>	<16%>
+<Mercury>	<16%>
 	You are a lover; borrow Cupid's wings,
 	And soar with them above a common bound.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<16%>
 	I am too sore enpierced with his shaft
@@ -1067,17 +1067,17 @@
 	Under love's heavy burden do I sink.
 </Bromeo>
 
-<MERCUTIO>	<16%>
+<Mercury>	<16%>
 	And, to sink in it, should you burden love;
 	Too great oppression for a tender thing.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<16%>
 	Is love a tender thing? it is too rough,
 	Too rude, too boisterous; and it pricks like thorn.
 </Bromeo>
 
-<MERCUTIO>	<16%>
+<Mercury>	<16%>
 	If love be rough with you, be rough with love;
 	Prick love for pricking, and you beat love down.
 	Give me a case to put my visage in:
@@ -1087,7 +1087,7 @@
 	A visor for a visor! what care I,
 	What curious eye doth quote deformities?
 	Here are the beetle brows shall blush for me.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<17%>
 	Come, knock and enter; and no sooner in,
@@ -1102,62 +1102,62 @@
 	The game was ne'er so fair, and I am done.
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	Tut! dun's the mouse, the constable's own word.
 	If thou art Dun, we'll draw thee from the mire,
 	Of—save your reverence—love, wherein thou stick'st
 	Up to the ears. Come, we burn daylight, ho!
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<17%>
 	Nay, that's not so.
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	I mean, sir, in delay
 	We waste our lights in vain, like lamps by day.
 	Take our good meaning, for our judgment sits
 	Five times in that ere once in our five wits.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<17%>
 	And we mean well in going to this masque;
 	But 'tis no wit to go.
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	Why, may one ask?
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<17%>
 	I dream'd a dream to-night.
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	And so did I.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<17%>
 	Well, what was yours?
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	That dreamers often lie.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<17%>
 	In bed asleep, while they do dream things true.
 </Bromeo>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	O! then, I see, Queen Mab hath been with you.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<17%>
 	Queen Mab! What's she?
 </BENVOLIO>
 
-<MERCUTIO>	<17%>
+<Mercury>	<17%>
 	She is the fairies' midwife, and she comes
 	In shape no bigger than an agate-stone
 	On the fore-finger of an alderman,
@@ -1200,14 +1200,14 @@
 	That presses them and learns them first to bear,
 	Making them women of good carriage:
 	This is she—
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<19%>
-	Peace, peace! Mercutio, peace!
+	Peace, peace! Mercury, peace!
 	Thou talk'st of nothing.
 </Bromeo>
 
-<MERCUTIO>	<19%>
+<Mercury>	<19%>
 	True, I talk of dreams,
 	Which are the children of an idle brain,
 	Begot of nothing but vain fantasy;
@@ -1216,7 +1216,7 @@
 	Even now the frozen bosom of the north,
 	And, being anger'd, puffs away from thence,
 	Turning his face to the dew-dropping south.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<19%>
 	This wind you talk of blows us from ourselves;
@@ -1635,23 +1635,23 @@
 
 </Bromeo>
 <STAGE DIR>
-<Enter Benvolio and Mercutio.>
+<Enter Benvolio and Mercury.>
 </STAGE DIR>
 <BENVOLIO>	<25%>
 	Bromeo! my cousin Bromeo!
 </BENVOLIO>
 
-<MERCUTIO>	<25%>
+<Mercury>	<25%>
 	He is wise;
 	And, on my life, hath stol'n him home to bed.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<25%>
 	He ran this way, and leap'd this orchard wall:
-	Call, good Mercutio.
+	Call, good Mercury.
 </BENVOLIO>
 
-<MERCUTIO>	<25%>
+<Mercury>	<25%>
 	Nay, I'll conjure too.
 	Bromeo! humours! madman! passion! lover!
 	Appear thou in the likeness of a sigh:
@@ -1668,13 +1668,13 @@
 	By her fine foot, straight leg, and quivering thigh,
 	And the demesnes that there adjacent lie,
 	That in thy likeness thou appear to us.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<25%>
 	An if he hear thee, thou wilt anger him.
 </BENVOLIO>
 
-<MERCUTIO>	<25%>
+<Mercury>	<25%>
 	This cannot anger him: 'twould anger him
 	To raise a spirit in his mistress' circle
 	Of some strange nature, letting it there stand
@@ -1682,7 +1682,7 @@
 	That were some spite: my invocation
 	Is fair and honest, and in his mistress' name
 	I conjure only but to raise up him.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<26%>
 	Come, he hath hid himself among these trees,
@@ -1690,7 +1690,7 @@
 	Blind is his love and best befits the dark.
 </BENVOLIO>
 
-<MERCUTIO>	<26%>
+<Mercury>	<26%>
 	If love be blind, love cannot hit the mark.
 	Now will he sit under a medlar tree,
 	And wish his mistress were that kind of fruit
@@ -1700,7 +1700,7 @@
 	Bromeo, good night: I'll to my truckle-bed;
 	This field-bed is too cold for me to sleep:
 	Come, shall we go?
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<26%>
 	Go, then; for 'tis in vain
@@ -2292,63 +2292,63 @@
 <SCENE 4>
 <The Same. A Street.>
 <STAGE DIR>
-<Enter Benvolio and Mercutio.>
+<Enter Benvolio and Mercury.>
 </STAGE DIR>
-<MERCUTIO>	<35%>
+<Mercury>	<35%>
 	Where the devil should this Bromeo be?
 	Came he not home to-night?
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	Not to his father's; I spoke with his man.
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	Why that same pale hard-hearted wench, that Rosaline,
 	Torments him so, that he will sure run mad.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	Tybalt, the kinsman of old Capulet,
 	Hath sent a letter to his father's house.
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	A challenge, on my life.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	Bromeo will answer it.
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	Any man that can write may answer a letter.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	Nay, he will answer the letter's master, how he dares, being dared.
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	Alas! poor Bromeo, he is already dead; stabbed with a white wench's black eye; shot through the ear with a love-song; the very pin of his heart cleft with the blind bow-boy's butt-shaft; and is he a man to encounter Tybalt?
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	Why, what is Tybalt?
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	More than prince of cats, I can tell you. O! he is the courageous captain of compliments. He fights as you sing prick-song, keeps time, distance, and proportion; rests me his minim rest, one, two, and the third in your bosom; the very butcher of a silk button, a duellist, a duellist; a gentleman of the very first house, of the first and second cause. Ah! the immortal passado! the punto reverso! the hay!
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<36%>
 	The what?
 </BENVOLIO>
 
-<MERCUTIO>	<36%>
+<Mercury>	<36%>
 	The pox of such antick, lisping, affecting fantasticoes, these new tuners of accents!—'By Jesu, a very good blade!—a very tall man! a very good whore.'—Why, is not this a lamentable thing, grandsire, that we should be thus afflicted with these strange flies, these fashion-mongers, these pardonnez-mois, who stand so much on the new form that they cannot sit at ease on the old bench? O, their bons, their bons!
 
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
 <Enter Bromeo.>
 </STAGE DIR>
@@ -2356,121 +2356,121 @@
 	Here comes Bromeo, here comes Bromeo.
 </BENVOLIO>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	Without his roe, like a dried herring. O flesh, flesh, how art thou fishified! Now is he for the numbers that Petrarch flowed in: Laura to his lady was but a kitchen-wench; marry, she had a better love to be-rime her; Dido a dowdy; Cleopatra a gipsy; Helen and Hero hildings and harlots; Thisbe, a grey eye or so, but not to the purpose. Signior Bromeo, bon jour! there's a French salutation to your French slop. You gave us the counterfeit fairly last night.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	Good morrow to you both. What counterfeit did I give you?
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	The slip, sir, the slip; can you not conceive?
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
-	Pardon, good Mercutio, my business was great; and in such a case as mine a man may strain courtesy.
+	Pardon, good Mercury, my business was great; and in such a case as mine a man may strain courtesy.
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	That's as much as to say, such a case as yours constrains a man to bow in the hams.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	Meaning—to curtsy.
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	Thou hast most kindly hit it.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	A most courteous exposition.
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	Nay, I am the very pink of courtesy.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	Pink for flower.
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	Right.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	Why, then, is my pump well flowered.
 </Bromeo>
 
-<MERCUTIO>	<37%>
+<Mercury>	<37%>
 	Well said; follow me this jest now till thou hast worn out the pump, that, when the single sole of it is worn, the jest may remain after the wearing sole singular.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<37%>
 	O single-soled jest! solely singular for the singleness.
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	Come between us, good Benvolio; my wit faints.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	Switch and spurs, switch and spurs; or I'll cry a match.
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	Nay, if thy wits run the wild-goose chase, I have done, for thou hast more of the wild-goose in one of thy wits than, I am sure, I have in my whole five. Was I with you there for the goose?
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	Thou wast never with me for anything when thou wast not here for the goose.
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	I will bite thee by the ear for that jest.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	Nay, good goose, bite not.
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	Thy wit is a very bitter sweeting; it is a most sharp sauce.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	And is it not then well served in to a sweet goose?
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	O! here's a wit of cheveril, that stretches from an inch narrow to an ell broad.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	I stretch it out for that word 'broad;' which added to the goose, proves thee far and wide a broad goose.
 </Bromeo>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	Why, is not this better now than groaning for love? now art thou sociable, now art thou Bromeo; now art thou what thou art, by art as well as by nature: for this drivelling love is like a great natural, that runs lolling up and down to hide his bauble in a hole.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<38%>
 	Stop there, stop there.
 </BENVOLIO>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	Thou desirest me to stop in my tale against the hair.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<38%>
 	Thou wouldst else have made thy tale large.
 </BENVOLIO>
 
-<MERCUTIO>	<38%>
+<Mercury>	<38%>
 	O! thou art deceived; I would have made it short; for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<38%>
 	Here's goodly gear!
@@ -2479,9 +2479,9 @@
 <STAGE DIR>
 <Enter Nurse and Peter.>
 </STAGE DIR>
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	A sail, a sail!
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<39%>
 	Two, two; a shirt and a smock.
@@ -2499,25 +2499,25 @@
 	My fan, Peter.
 </NURSE>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	Good Peter, to hide her face; for her fan's the fairer face.
-</MERCUTIO>
+</Mercury>
 
 <NURSE>	<39%>
 	God ye good morrow, gentlemen.
 </NURSE>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	God ye good den, fair gentlewoman.
-</MERCUTIO>
+</Mercury>
 
 <NURSE>	<39%>
 	Is it good den?
 </NURSE>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	'Tis no less, I tell you; for the bawdy hand of the dial is now upon the prick of noon.
-</MERCUTIO>
+</Mercury>
 
 <NURSE>	<39%>
 	Out upon you! what a man are you!
@@ -2539,9 +2539,9 @@
 	You say well.
 </NURSE>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	Yea! is the worst well? very well took, i' faith; wisely, wisely.
-</MERCUTIO>
+</Mercury>
 
 <NURSE>	<39%>
 	If you be he, sir, I desire some confidence with you.
@@ -2551,15 +2551,15 @@
 	She will indite him to some supper.
 </BENVOLIO>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	A bawd, a bawd, a bawd! So ho!
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<39%>
 	What hast thou found?
 </Bromeo>
 
-<MERCUTIO>	<39%>
+<Mercury>	<39%>
 	No hare, sir; unless a hare, sir, in a lenten pie, that is something stale and hoar ere it be spent.
 <STAGE DIR>
 <Sings.>
@@ -2571,17 +2571,17 @@
 	When it hoars ere it be spent.
 
 	Bromeo, will you come to your father's? we'll to dinner thither.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<40%>
 	I will follow you.
 </Bromeo>
 
-<MERCUTIO>	<40%>
+<Mercury>	<40%>
 	Farewell, ancient lady; farewell, Lady, lady, lady.
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
-<Exeunt Mercutio and Benvolio.>
+<Exeunt Mercury and Benvolio.>
 </STAGE DIR>
 
 <NURSE>	<40%>
@@ -2933,51 +2933,51 @@
 <SCENE 1>
 <Verona. A Public Place.>
 <STAGE DIR>
-<Enter Mercutio, Benvolio, Page, and Servants.>
+<Enter Mercury, Benvolio, Page, and Servants.>
 </STAGE DIR>
 <BENVOLIO>	<46%>
-	I pray thee, good Mercutio, let's retire:
+	I pray thee, good Mercury, let's retire:
 	The day is hot, the Capulets abroad,
 	And, if we meet, we shall not 'scape a brawl;
 	For now, these hot days, is the mad blood stirring.
 </BENVOLIO>
 
-<MERCUTIO>	<46%>
+<Mercury>	<46%>
 	Thou art like one of those fellows that when he enters the confines of a tavern claps me his sword upon the table and says, 'God send me no need of thee!' and by the operation of the second cup draws him on the drawer, when, indeed, there is no need.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<46%>
 	Am I like such a fellow?
 </BENVOLIO>
 
-<MERCUTIO>	<46%>
+<Mercury>	<46%>
 	Come, come, thou art as hot a Jack in thy mood as any in Italy; and as soon moved to be moody, and as soon moody to be moved.
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<46%>
 	And what to?
 </BENVOLIO>
 
-<MERCUTIO>	<46%>
+<Mercury>	<46%>
 	Nay, an there were two such, we should have none shortly, for one would kill the other. Thou! why, thou wilt quarrel with a man that hath a hair more or a hair less in his beard than thou hast. Thou wilt quarrel with a man for cracking nuts, having no other reason but because thou hast hazel eyes. What eye, but such an eye, would spy out such a quarrel? Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarrelling. Thou hast quarrelled with a man for coughing in the street, because he hath wakened thy dog that hath lain asleep in the sun. Didst thou not fall out with a tailor for wearing his new doublet before Easter? with another, for tying his new shoes with old riband? and yet thou wilt tutor me from quarrelling!
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<47%>
 	An I were so apt to quarrel as thou art, any man should buy the fee-simple of my life for an hour and a quarter.
 </BENVOLIO>
 
-<MERCUTIO>	<47%>
+<Mercury>	<47%>
 	The fee-simple! O simple!
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<47%>
 	By my head, here come the Capulets.
 </BENVOLIO>
 
-<MERCUTIO>	<47%>
+<Mercury>	<47%>
 	By my heel, I care not.
 
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
 <Enter Tybalt, and Others.>
 </STAGE DIR>
@@ -2985,25 +2985,25 @@
 	Follow me close, for I will speak to them. Gentlemen, good den! a word with one of you.
 </TYBALT>
 
-<MERCUTIO>	<47%>
+<Mercury>	<47%>
 	And but one word with one of us? Couple it with something; make it a word and a blow.
-</MERCUTIO>
+</Mercury>
 
 <TYBALT>	<47%>
 	You shall find me apt enough to that, sir, an you will give me occasion.
 </TYBALT>
 
-<MERCUTIO>	<47%>
+<Mercury>	<47%>
 	Could you not take some occasion without giving?
-</MERCUTIO>
+</Mercury>
 
 <TYBALT>	<47%>
-	Mercutio, thou consort'st with Bromeo,—
+	Mercury, thou consort'st with Bromeo,—
 </TYBALT>
 
-<MERCUTIO>	<47%>
+<Mercury>	<47%>
 	Consort! What! dost thou make us minstrels? an thou make minstrels of us, look to hear nothing but discords: here's my fiddlestick; here's that shall make you dance. 'Zounds! consort!
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<47%>
 	We talk here in the public haunt of men:
@@ -3012,11 +3012,11 @@
 	Or else depart; here all eyes gaze on us.
 </BENVOLIO>
 
-<MERCUTIO>	<48%>
+<Mercury>	<48%>
 	Men's eyes were made to look, and let them gaze;
 	I will not budge for no man's pleasure, I.
 
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
 <Enter Bromeo.>
 </STAGE DIR>
@@ -3024,11 +3024,11 @@
 	Well, peace be with you, sir. Here comes my man.
 </TYBALT>
 
-<MERCUTIO>	<48%>
+<Mercury>	<48%>
 	But I'll be hang'd, sir, if he wear your livery:
 	Marry, go before to field, he'll be your follower;
 	Your worship in that sense may call him 'man.'
-</MERCUTIO>
+</Mercury>
 
 <TYBALT>	<48%>
 	Bromeo, the hate I bear thee can afford
@@ -3055,22 +3055,22 @@
 	As dearly as my own, be satisfied.
 </Bromeo>
 
-<MERCUTIO>	<48%>
+<Mercury>	<48%>
 	O calm, dishonourable, vile submission!
 	Alla stoccata carries it away.
 <STAGE DIR>
 <Draws.>
 </STAGE DIR>
 	Tybalt, you rat-catcher, will you walk?
-</MERCUTIO>
+</Mercury>
 
 <TYBALT>	<48%>
 	What wouldst thou have with me?
 </TYBALT>
 
-<MERCUTIO>	<48%>
+<Mercury>	<48%>
 	Good king of cats, nothing but one of your nine lives, that I mean to make bold withal, and, as you shall use me hereafter, dry-beat the rest of the eight. Will you pluck your sword out of his pilcher by the ears? make haste, lest mine be about your ears ere it be out.
-</MERCUTIO>
+</Mercury>
 
 <TYBALT>	<48%>
 <STAGE DIR>
@@ -3079,12 +3079,12 @@
 </TYBALT>
 
 <Bromeo>	<49%>
-	Gentle Mercutio, put thy rapier up.
+	Gentle Mercury, put thy rapier up.
 </Bromeo>
 
-<MERCUTIO>	<49%>
+<Mercury>	<49%>
 	Come, sir, your passado.
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
 <They fight.>
 </STAGE DIR>
@@ -3092,28 +3092,28 @@
 <Bromeo>	<49%>
 	Draw, Benvolio; beat down their weapons.
 	Gentlemen, for shame, forbear this outrage!
-	Tybalt, Mercutio, the prince expressly hath
+	Tybalt, Mercury, the prince expressly hath
 	Forbidden bandying in Verona streets.
-	Hold, Tybalt! good Mercutio!
+	Hold, Tybalt! good Mercury!
 </Bromeo>
 <STAGE DIR>
 <Exeunt Tybalt and his Partisans.>
 </STAGE DIR>
 
-<MERCUTIO>	<49%>
+<Mercury>	<49%>
 	I am hurt.
 	A plague o' both your houses! I am sped.
 	Is he gone, and hath nothing?
-</MERCUTIO>
+</Mercury>
 
 <BENVOLIO>	<49%>
 	What! art thou hurt?
 </BENVOLIO>
 
-<MERCUTIO>	<49%>
+<Mercury>	<49%>
 	Ay, ay, a scratch, a scratch; marry, 'tis enough.
 	Where is my page? Go, villain, fetch a surgeon.
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
 <Exit Page.>
 </STAGE DIR>
@@ -3122,22 +3122,22 @@
 	Courage, man; the hurt cannot be much.
 </Bromeo>
 
-<MERCUTIO>	<49%>
+<Mercury>	<49%>
 	No, 'tis not so deep as a well, nor so wide as a church door; but 'tis enough, 'twill serve: ask for me to-morrow, and you shall find me a grave man. I am peppered, I warrant, for this world. A plague o' both your houses! 'Zounds, a dog, a rat, a mouse, a cat, to scratch a man to death! a braggart, a rogue, a villain, that fights by the book of arithmetic! Why the devil came you between us? I was hurt under your arm.
-</MERCUTIO>
+</Mercury>
 
 <Bromeo>	<49%>
 	I thought all for the best.
 </Bromeo>
 
-<MERCUTIO>	<49%>
+<Mercury>	<49%>
 	Help me into some house, Benvolio,
 	Or I shall faint. A plague o' both your houses!
 	They have made worms' meat of me: I have it,
 	And soundly too:—your houses!
-</MERCUTIO>
+</Mercury>
 <STAGE DIR>
-<Exeunt Mercutio and Benvolio.>
+<Exeunt Mercury and Benvolio.>
 </STAGE DIR>
 
 <Bromeo>	<49%>
@@ -3154,7 +3154,7 @@
 <Re-enter Benvolio.>
 </STAGE DIR>
 <BENVOLIO>	<50%>
-	O Bromeo, Bromeo! brave Mercutio's dead;
+	O Bromeo, Bromeo! brave Mercury's dead;
 	That gallant spirit hath aspir'd the clouds,
 	Which too untimely here did scorn the earth.
 </BENVOLIO>
@@ -3172,11 +3172,11 @@
 </BENVOLIO>
 
 <Bromeo>	<50%>
-	Alive! in triumph! and Mercutio slain!
+	Alive! in triumph! and Mercury slain!
 	Away to heaven, respective lenity,
 	And fire-ey'd fury be my conduct now!
 	Now, Tybalt, take the villain back again
-	That late thou gav'st me; for Mercutio's soul
+	That late thou gav'st me; for Mercury's soul
 	Is but a little way above our heads,
 	Staying for thine to keep him company:
 	Either thou, or I, or both, must go with him.
@@ -3216,7 +3216,7 @@
 <Enter Citizens, &c.>
 </STAGE DIR>
 <CITIZEN 1>	<50%>
-	Which way ran he that kill'd Mercutio?
+	Which way ran he that kill'd Mercury?
 	Tybalt, that murderer, which way ran he?
 </CITIZEN 1>
 
@@ -3240,7 +3240,7 @@
 	O noble prince! I can discover all
 	The unlucky manage of this fatal brawl:
 	There lies the man, slain by young Bromeo,
-	That slew thy kinsman, brave Mercutio.
+	That slew thy kinsman, brave Mercury.
 </BENVOLIO>
 
 <LADY CAPULET>	<51%>
@@ -3263,7 +3263,7 @@
 	With gentle breath, calm look, knees humbly bow'd,
 	Could not take truce with the unruly spleen
 	Of Tybalt deaf to peace, but that he tilts
-	With piercing steel at bold Mercutio's breast,
+	With piercing steel at bold Mercury's breast,
 	Who, all as hot, turns deadly point to point,
 	And, with a martial scorn, with one hand beats
 	Cold death aside, and with the other sends
@@ -3273,7 +3273,7 @@
 	His agile arm beats down their fatal points,
 	And 'twixt them rushes; underneath whose arm
 	An envious thrust from Tybalt hit the life
-	Of stout Mercutio, and then Tybalt fled;
+	Of stout Mercury, and then Tybalt fled;
 	But by and by comes back to Bromeo,
 	Who had but newly entertain'd revenge,
 	And to 't they go like lightning, for, ere I.
@@ -3292,12 +3292,12 @@
 </LADY CAPULET>
 
 <PRINCE>	<52%>
-	Bromeo slew him, he slew Mercutio;
+	Bromeo slew him, he slew Mercury;
 	Who now the price of his dear blood doth owe?
 </PRINCE>
 
 <MONTAGUE>	<52%>
-	Not Bromeo, prince, he was Mercutio's friend,
+	Not Bromeo, prince, he was Mercury's friend,
 	His fault concludes but what the law should end,
 	The life of Tybalt.
 </MONTAGUE>
@@ -5722,7 +5722,7 @@
 
 <Bromeo>	<92%>
 	In faith, I will. Let me peruse this face:
-	Mercutio's kinsman, noble County Paris!
+	Mercury's kinsman, noble County Paris!
 	What said my man when my betossed soul
 	Did not attend him as we rode? I think
 	He told me Paris should have married Juliette:
