@@ -10,5 +10,3 @@ below!
 3. Organize the work in `feature/comedies`
 
 Testing!
-
-sfd
