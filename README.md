@@ -11,4 +11,8 @@ below!
 
 Testing!
 
+<<<<<<< HEAD
 asdfasdfasfd
+=======
+asdf
+>>>>>>> test3
